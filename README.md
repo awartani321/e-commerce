@@ -19,7 +19,13 @@
 * THEN I am able to successfully create, update, and delete data in my database
 
 
-### Walkthrough video and Screenshot
+### Walkthrough video
+
+https://www.youtube.com/watch?v=asAY6YQ2d9M
+
+### Screenshot: <img width="1440" alt="Screen Shot 2022-08-13 at 3 14 41 PM" src="https://user-images.githubusercontent.com/103685355/184507700-e57e05c5-6cb4-48a7-9210-d57016448fde.png">
+
+
 
 
 
